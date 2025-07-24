@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SkinMantra – AI Skincare</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #ffe6f0, #fff0f5);
+      text-align: center;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 25px;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+    .container img {
+      width: 100%;
+      border-radius: 16px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      color: #cc0066;
+      font-size: 26px;
+    }
+    p {
+      font-size: 18px;
+      color: #444;
+      margin: 10px 0 20px;
+    }
+    a.button {
+      display: inline-block;
+      background: #ff66b2;
+      color: white;
+      padding: 14px 28px;
+      font-size: 16px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+    a.button:hover {
+      background: #e60073;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <img src="https://chatgpt-image-hosting.s3.ap-south-1.amazonaws.com/skinmantra.webp" alt="SkinMantra AI Skincare"/>
+    <h1>Get Your Personalized AI Skincare Routine in 5 Minutes</h1>
+    <p>Pay just ₹49 and receive your custom skincare plan directly in your email.</p>
+    <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSeqoCNwWhQFYNif_wol3LFz6eKYUDZbXqx5ecMts94_9JDNyA/viewform?usp=dialog" target="_blank">
+      Fill the Form Now
+    </a>
+  </div>
+
+</body>
+</html>
